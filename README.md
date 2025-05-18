@@ -6,3 +6,6 @@ documents and generation of a character database of various formats"
 Faculty of Electronic Engineering - University of Nis
 
 Marko Đokić
+
+
+image processing, Tesseract, OCR, OpenCV, image compression
