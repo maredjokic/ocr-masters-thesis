@@ -9,3 +9,10 @@ Marko Đokić
 
 
 image processing, Tesseract, OCR, OpenCV, image compression
+
+
+
+
+
+https://stackoverflow.com/questions/65986063/emgu-error-when-trying-to-install-emgu-cv-runtime-windows-in-vc-2017
+migrate package.config to PackageReference
