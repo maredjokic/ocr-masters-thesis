@@ -1,7 +1,8 @@
 # Master's Thesis
 
-Implementation of application for text elements separation from scanned
-documents and generation of a character database of various formats
+"Implementation of application for text elements separation from scanned
+documents and generation of a character database of various formats"
 
+Faculty of Electronic Engineering - University of Nis
 
-Master's Thesis
+Marko Đokić
